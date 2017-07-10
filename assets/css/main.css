@@ -807,7 +807,7 @@
 
 /* Wrapper */
 
-	#wrapper {
+	#wrapper {		
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -854,3 +854,9 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+/*------------------------------------------------------------------------------*/
+
+.info{
+	max-width: 600px;
+}

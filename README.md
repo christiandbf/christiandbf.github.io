@@ -1,1 +1,1 @@
-Pagina de presentación de "christiandbf" en GitHub pages.
+Pagina de presentación en GitHub pages.
